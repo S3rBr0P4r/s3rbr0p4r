@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img width="100%" src="assets/banner.jpg" />
+</div>
 
 <!--
 **S3rBr0P4r/s3rbr0p4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
