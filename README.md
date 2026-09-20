@@ -2,7 +2,6 @@
   <img width="100%" src="assets/banner.jpg" />
 </div>
 
-## 👨‍💻 Let me introduce myself
 Senior Software Engineer with over 16 years of experience in the Microsoft ecosystem, primarily using C# and .NET, and specializing in AWS infrastructure and cloud operations over the last 10 years. My background blends deep software development with modern platform engineering, dedicated to building high-availability cloud systems and helping engineering teams scale.
 
 ## 🚀 Core Tech Stack
