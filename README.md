@@ -23,8 +23,8 @@ Senior Software Engineer with over 16 years of experience in the Microsoft ecosy
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Moq](https://img.shields.io/badge/Moq-%231E1E1E.svg?style=for-the-badge)
-![FluentAssertions](https://img.shields.io/badge/FluentAssertions-%231E1E1E.svg?style=for-the-badge)
+![Moq](https://img.shields.io/badge/Moq-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Fluent Assertions](https://img.shields.io/badge/Fluent%20Assertions-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -161,9 +161,9 @@ Senior Software Engineer with over 16 years of experience in the Microsoft ecosy
   ![nUnit](https://img.shields.io/badge/nUnit-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
   ![xUnit](https://img.shields.io/badge/xUnit-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
   ![MSTest](https://img.shields.io/badge/MSTest-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![NSubstitute](https://img.shields.io/badge/NSubstitute-%231E1E1E.svg?style=for-the-badge)
-  ![Moq](https://img.shields.io/badge/Moq-%231E1E1E.svg?style=for-the-badge)
-  ![FluentAssertions](https://img.shields.io/badge/FluentAssertions-%231E1E1E.svg?style=for-the-badge)
+  ![NSubstitute](https://img.shields.io/badge/NSubstitute-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Moq](https://img.shields.io/badge/Moq-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Fluent Assertions](https://img.shields.io/badge/Fluent%20Assertions-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
   ![Pester](https://img.shields.io/badge/Pester-%23107C41.svg?style=for-the-badge&logo=powershell&logoColor=white)
 </details>
 
